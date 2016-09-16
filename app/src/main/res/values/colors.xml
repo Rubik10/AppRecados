@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="list_divider">#eb9f9b9b</color>
+    <color name="list_row_start_color">#e0dcd9d9</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#e14e94d1</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+    <color name="title">#539a9da1</color>
+    <color name="txtFechaHistory">#dea14d</color>
+</resources>

@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rubik.applogincard.Activity.MainActivity">
+
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="refresh"
+        app:showAsAction="ifRoom" />
+
+    <item
+         android:id="@+id/action_settings"
+         android:orderInCategory="100"
+        android:icon="@drawable/ic_sort_black_24dp"
+         android:title="Settings"
+         app:showAsAction="ifRoom" />
+
+
+</menu>
